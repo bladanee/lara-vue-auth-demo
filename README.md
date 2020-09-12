@@ -3,6 +3,8 @@ Create Data Base: laravue
 
 then 
 
+rename .env.example to .env
+
 run below cmd
 
 1.  composer update
